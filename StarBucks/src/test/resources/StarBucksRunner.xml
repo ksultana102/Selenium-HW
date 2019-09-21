@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+
+<suite name="StarBucks Automation" parallel="false">
+
+    <parameter name="url" value="https://www.starbucks.com/"/>
+    <test name = "StarBucks Home">
+        <classes>
+            <class name="home.TestCoffeeDropDownMenu"/>
+            <class name="home.NegativeTestLogIn"/>
+            <class name="home.TestExcitingUpdates"/>
+            <class name="home.TestFindStore"/>
+            <class name="home.TestJoinNow"/>
+        </classes>
+    </test>
+
+</suite>

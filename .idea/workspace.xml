@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ace1adff-421e-43bd-94a5-d2621f4decd7" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1R6YgjvejMty0SEKOAoEUkB2v2X" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="findjar.last.used.dir" value="$PROJECT_DIR$/Generic" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Generic" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WebAutomationFrameworkHW\Generic\Driver" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\WebAutomationFrameworkHW\MTA\src\test\resources" />
+      <recent name="D:\WebAutomationFrameworkHW\MTA\src\test" />
+      <recent name="D:\WebAutomationFrameworkHW\Ebay\src\test" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.D:/WebAutomationFrameworkHW/StarBucks/src/test/resources/StarBucksRunner.xml">
+    <configuration name="D:/WebAutomationFrameworkHW/Ebay/src/test/resources/EbayRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Ebay" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Ebay/src/test/resources/EbayRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/WebAutomationFrameworkHW/MTA/src/test/resources/MTARunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MTA" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/MTA/src/test/resources/MTARunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/WebAutomationFrameworkHW/StarBucks/src/test/resources/StarBucksRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="StarBucks" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/StarBucks/src/test/resources/StarBucksRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NegativeTestLogin.NegativeTestLogin" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="YouTube" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="home.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="home" />
+      <option name="MAIN_CLASS_NAME" value="home.NegativeTestLogin" />
+      <option name="METHOD_NAME" value="NegativeTestLogin" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAccount.TestAccount" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="YouTube" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="home.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="home" />
+      <option name="MAIN_CLASS_NAME" value="home.TestAccount" />
+      <option name="METHOD_NAME" value="TestAccount" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.D:/WebAutomationFrameworkHW/StarBucks/src/test/resources/StarBucksRunner.xml" />
+        <item itemvalue="TestNG.D:/WebAutomationFrameworkHW/MTA/src/test/resources/MTARunner.xml" />
+        <item itemvalue="TestNG.D:/WebAutomationFrameworkHW/Ebay/src/test/resources/EbayRunner.xml" />
+        <item itemvalue="TestNG.NegativeTestLogin.NegativeTestLogin" />
+        <item itemvalue="TestNG.TestAccount.TestAccount" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ace1adff-421e-43bd-94a5-d2621f4decd7" name="Default Changelist" comment="" />
+      <created>1568989125564</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568989125564</updated>
+    </task>
+    <servers />
+  </component>
+</project>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+
+<suite name="Ebay Automation" parallel="false">
+
+    <parameter name="url" value="https://www.ebay.com"/>
+    <test name = "Ebay Home">
+        <classes>
+            <class name="home.NegativeTestLogin"/>
+            <class name="home.TestSearchEngine"/>
+            <class name="home.TestShoppingCart"/>
+            <class name="home.TestNotifications"/>
+            <class name="home.TestShopByCategory"/>
+        </classes>
+    </test>
+
+</suite>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+
+<suite name="MTA Automation" parallel="false">
+
+    <parameter name="url" value="https://new.mta.info/"/>
+    <test name = "MTA Home">
+        <classes>
+            <class name="home.TestFavorites"/>
+            <class name="home.TestMap"/>
+            <class name="home.TestMoreDropDownMenu"/>
+            <class name="home.TestOneTrain"/>
+            <class name="home.TestSearchEngine"/>
+        </classes>
+    </test>
+
+</suite>
