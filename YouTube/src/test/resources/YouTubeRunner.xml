@@ -2,15 +2,15 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 
 
-<suite name="MTA Automation" parallel="false">
+<suite name="YouTube Automation" parallel="false">
 
-    <parameter name="url" value="https://new.mta.info/"/>
-    <test name = "MTA Home">
+    <parameter name="url" value="https://www.youtube.com//"/>
+    <test name = "YouTube Home">
         <classes>
-            <class name="home.TestFavorites"/>
-            <class name="home.TestMap"/>
-            <class name="home.TestMoreDropDownMenu"/>
-            <class name="home.TestOneTrain"/>
+            <class name="home.NegativeTestLogin"/>
+            <class name="home.TestAccount"/>
+            <class name="home.TestLibrary"/>
+            <class name="home.TestTrending"/>
             <class name="home.TestSearchEngine"/>
         </classes>
     </test>

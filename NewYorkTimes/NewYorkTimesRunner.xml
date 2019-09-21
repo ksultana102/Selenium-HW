@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+
+<suite name="NewYorkTimes Automation" parallel="false">
+
+    <parameter name="url" value="https://www.nytimes.com//"/>
+    <test name = "NewYorkTimes Home">
+        <classes>
+           <class name="home.TestTitle"/>
+            <class name="home.NegativeTestLogIn"/>
+           <class name="home.TestWorld"/>
+            <class name="home.TestUS"/>
+           <class name="home.TestPolitics"/>
+        </classes>
+    </test>
+
+</suite>

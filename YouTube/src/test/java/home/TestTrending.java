@@ -9,3 +9,4 @@ public class TestTrending extends CommonAPI{
         driver.findElement(By.xpath("//span[@class='title style-scope ytd-guide-entry-renderer'][contains(text(),'Trending')]")).click();
     }
 }
+//span[@class='title style-scope ytd-guide-entry-renderer'][contains(text(),'Library')]
